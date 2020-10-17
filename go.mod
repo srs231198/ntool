@@ -1,4 +1,4 @@
-module github.com/srs231198/cli_tool
+module github.com/srs231198/ntool
 
 go 1.15
 
